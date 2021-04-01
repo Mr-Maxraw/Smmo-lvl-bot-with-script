@@ -1,0 +1,5 @@
+/node_modules
+members*.list
+*.log
+bot_config.json
+.env
